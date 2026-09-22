@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "text-adventure-game",
+      "title": "Text Adventure Game",
+      "description": "Create a branching story game with choices, inventory, and win/lose conditions in Python",
+      "path": "assignments/text-adventure-game",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
